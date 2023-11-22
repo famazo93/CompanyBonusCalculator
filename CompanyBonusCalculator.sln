@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyBonusCalculator", "CompanyBonusCalculator\CompanyBonusCalculator.csproj", "{68044CF6-8692-43BA-9D66-50152DC66D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyBonusCalculatorTest", "CompanyBonusCalculatorTest\CompanyBonusCalculatorTest.csproj", "{F1FD60A3-4456-41F4-BA5D-C8D63C62C9F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68044CF6-8692-43BA-9D66-50152DC66D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68044CF6-8692-43BA-9D66-50152DC66D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68044CF6-8692-43BA-9D66-50152DC66D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68044CF6-8692-43BA-9D66-50152DC66D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FD60A3-4456-41F4-BA5D-C8D63C62C9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FD60A3-4456-41F4-BA5D-C8D63C62C9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FD60A3-4456-41F4-BA5D-C8D63C62C9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FD60A3-4456-41F4-BA5D-C8D63C62C9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
